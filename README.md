@@ -13,7 +13,6 @@ A fullscreen, dialog-driven Bash wrapper for `nmcli` that simplifies scanning, c
 4. [Adding to PATH](#adding-to-path)
 5. [Creating an Alias](#creating-an-alias)
 6. [Optional: Man Page & Completion](#optional-man-page--completion)
-7. [License](#license)
 
 ---
 
