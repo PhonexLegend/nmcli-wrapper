@@ -35,7 +35,7 @@ A fullscreen, dialog-driven Bash wrapper for `nmcli` that simplifies scanning, c
 
 1. **Clone or download** this repository:
    ```bash
-   git clone https://github.com/<your‑username>/nmcli-wrapper.git
+   git clone https://github.com/PhonexLegend/nmcli-wrapper.git
    cd nmcli-wrapper
    ```
 
